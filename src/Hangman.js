@@ -11,6 +11,7 @@ class Hangman extends Component {
 
         this.state = {
             selectedCountry : null,
+            userAnswers: [],
             errorMsg: null
         };
 
@@ -20,26 +21,42 @@ class Hangman extends Component {
         let eventKey = (e.key).toUpperCase();
         console.log(eventKey)
 
-        let selectedCountryName = this.state.selectedCountry.name;
+        let selectedCountryName = this.state.selectedCountry.name.toUpperCase();
         
         if(selectedCountryName.includes(eventKey)){
 
-            var indices = [];
-            var idx = selectedCountryName.indexOf(eventKey);
-            while (idx != -1) {
-            indices.push(idx);
-            idx = selectedCountryName.indexOf(eventKey, idx + 1);
+            let userAnswersState = [...this.state.userAnswers];
+            let keyIsExistInState = false;
+            userAnswersState.map(answ => answ.map(ans => keyIsExistInState = ans.key == eventKey ? true : keyIsExistInState));
+
+             if(!keyIsExistInState){
+
+                let newUserAnswersState = [];
+                
+                let keyIndices = [];
+                let keyIndex = selectedCountryName.indexOf(eventKey);
+                while (keyIndex != -1) {
+                    keyIndices.push(keyIndex);
+                    keyIndex = selectedCountryName.indexOf(eventKey, keyIndex+1);
+                }
+                console.log(keyIndices);
+                
+                newUserAnswersState.push({ key: eventKey, indices: keyIndices });
+
+                this.setState(previousState => ({
+                    userAnswers: [...previousState.userAnswers, newUserAnswersState]
+                }));
             }
-            console.log(indices);
+        }
+        else { 
         }
     }
     componentDidMount() {
-        console.log("here");
         axios.get('https://restcountries.eu/rest/v2/all')
         .then(response => {
             //console.log(response.data);
             const thisCountry = this.getRandomCountry( this.getValidCountries( response.data ) );
-            this.setState({ selectedCountry: thisCountry.toUpperCase() });
+            this.setState({ selectedCountry: thisCountry });
         })
         .catch(error => {
             //console.error('There was an error!', error);
@@ -64,13 +81,12 @@ class Hangman extends Component {
     }
 
     render() {
-        const { selectedCountry, errorMsg } = this.state;
+        const { selectedCountry, userAnswers, errorMsg } = this.state;
 
-       // console.log(selectedCountry);
         return (
             <div className="row">
                 { selectedCountry && <PrepareFlag flag={selectedCountry.flag} /> }
-                { selectedCountry && <PrepareWord countryName={selectedCountry.name} /> }
+                { selectedCountry && <PrepareWord countryName={selectedCountry.name} userAnswers={userAnswers} /> }
             </div>
         )
     }
