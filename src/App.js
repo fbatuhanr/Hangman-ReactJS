@@ -4,6 +4,8 @@ import './App.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import axios from 'axios';
 
+import PrepareWord from './components/PrepareWord';
+
 function App() {
 
   const [countries, setCountries] = useState(null);
@@ -26,11 +28,13 @@ function App() {
 
   }, []);
 
-
   return (
     <div className="container">
       <div className="row">
-      {
+      {countries && <PrepareWord countryNames={countries.map(c=>c.name)} />}
+      </div>
+      <div className="row">
+      {/* LIST ALL COUNTRIES NAME
         countries && countries.map(country => 
           <div className="col col-3">
             <div className="mt-1 mb-1 border">
@@ -38,7 +42,7 @@ function App() {
             </div>
           </div>
         )
-      } 
+        */} 
       </div>
     </div>
   );
