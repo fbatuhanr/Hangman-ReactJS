@@ -6,7 +6,7 @@ export const PrepareWord = ({countryName, userAnswers}) => {
 
     const letterUnderScores = [];
 
-    console.log("+: ", userAnswers);
+    //console.log("+: ", userAnswers);
     for (let i = 0; i < countryName.length; i++) {
 
        letterUnderScores.push(
