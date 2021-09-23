@@ -76,7 +76,7 @@
         "hr": "Afganistan",
         "fa": "افغانستان"
      },
-     "flag": "/country-flags-svg/afg.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/afg.svg",
      "regionalBlocs": [
         {
            "acronym": "SAARC",
@@ -147,7 +147,7 @@
         "hr": "Ålandski otoci",
         "fa": "جزایر الند"
      },
-     "flag": "/country-flags-svg/ala.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/ala.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -223,7 +223,7 @@
         "hr": "Albanija",
         "fa": "آلبانی"
      },
-     "flag": "/country-flags-svg/alb.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/alb.svg",
      "regionalBlocs": [
         {
            "acronym": "CEFTA",
@@ -301,7 +301,7 @@
         "hr": "Alžir",
         "fa": "الجزایر"
      },
-     "flag": "/country-flags-svg/dza.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/dza.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -394,7 +394,7 @@
         "hr": "Američka Samoa",
         "fa": "ساموآی آمریکا"
      },
-     "flag": "/country-flags-svg/asm.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/asm.svg",
      "regionalBlocs": [],
      "cioc": "ASA"
   },
@@ -460,7 +460,7 @@
         "hr": "Andora",
         "fa": "آندورا"
      },
-     "flag": "/country-flags-svg/and.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/and.svg",
      "regionalBlocs": [],
      "cioc": "AND"
   },
@@ -528,7 +528,7 @@
         "hr": "Angola",
         "fa": "آنگولا"
      },
-     "flag": "/country-flags-svg/ago.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/ago.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -602,7 +602,7 @@
         "hr": "Angvila",
         "fa": "آنگویلا"
      },
-     "flag": "/country-flags-svg/aia.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/aia.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -679,7 +679,7 @@
         "hr": "Antarktika",
         "fa": "جنوبگان"
      },
-     "flag": "/country-flags-svg/ata.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/ata.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -740,7 +740,7 @@
         "hr": "Antigva i Barbuda",
         "fa": "آنتیگوا و باربودا"
      },
-     "flag": "/country-flags-svg/atg.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/atg.svg",
      "regionalBlocs": [
         {
            "acronym": "CARICOM",
@@ -826,7 +826,7 @@
         "hr": "Argentina",
         "fa": "آرژانتین"
      },
-     "flag": "/country-flags-svg/arg.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/arg.svg",
      "regionalBlocs": [
         {
            "acronym": "USAN",
@@ -917,7 +917,7 @@
         "hr": "Armenija",
         "fa": "ارمنستان"
      },
-     "flag": "/country-flags-svg/arm.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/arm.svg",
      "regionalBlocs": [
         {
            "acronym": "EEU",
@@ -993,7 +993,7 @@
         "hr": "Aruba",
         "fa": "آروبا"
      },
-     "flag": "/country-flags-svg/abw.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/abw.svg",
      "regionalBlocs": [],
      "cioc": "ARU"
   },
@@ -1061,7 +1061,7 @@
         "hr": "Australija",
         "fa": "استرالیا"
      },
-     "flag": "/country-flags-svg/aus.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/aus.svg",
      "regionalBlocs": [],
      "cioc": "AUS"
   },
@@ -1134,7 +1134,7 @@
         "hr": "Austrija",
         "fa": "اتریش"
      },
-     "flag": "/country-flags-svg/aut.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/aut.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -1210,7 +1210,7 @@
         "hr": "Azerbajdžan",
         "fa": "آذربایجان"
      },
-     "flag": "/country-flags-svg/aze.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/aze.svg",
      "regionalBlocs": [],
      "cioc": "AZE"
   },
@@ -1272,7 +1272,7 @@
         "hr": "Bahami",
         "fa": "باهاما"
      },
-     "flag": "/country-flags-svg/bhs.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/bhs.svg",
      "regionalBlocs": [
         {
            "acronym": "CARICOM",
@@ -1346,7 +1346,7 @@
         "hr": "Bahrein",
         "fa": "بحرین"
      },
-     "flag": "/country-flags-svg/bhr.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/bhr.svg",
      "regionalBlocs": [
         {
            "acronym": "AL",
@@ -1423,7 +1423,7 @@
         "hr": "Bangladeš",
         "fa": "بنگلادش"
      },
-     "flag": "/country-flags-svg/bgd.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/bgd.svg",
      "regionalBlocs": [
         {
            "acronym": "SAARC",
@@ -1491,7 +1491,7 @@
         "hr": "Barbados",
         "fa": "باربادوس"
      },
-     "flag": "/country-flags-svg/brb.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/brb.svg",
      "regionalBlocs": [
         {
            "acronym": "CARICOM",
@@ -1586,7 +1586,7 @@
         "hr": "Bjelorusija",
         "fa": "بلاروس"
      },
-     "flag": "/country-flags-svg/blr.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/blr.svg",
      "regionalBlocs": [
         {
            "acronym": "EEU",
@@ -1681,7 +1681,7 @@
         "hr": "Belgija",
         "fa": "بلژیک"
      },
-     "flag": "/country-flags-svg/bel.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/bel.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -1758,7 +1758,7 @@
         "hr": "Belize",
         "fa": "بلیز"
      },
-     "flag": "/country-flags-svg/blz.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/blz.svg",
      "regionalBlocs": [
         {
            "acronym": "CARICOM",
@@ -1847,7 +1847,7 @@
         "hr": "Benin",
         "fa": "بنین"
      },
-     "flag": "/country-flags-svg/ben.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/ben.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -1924,7 +1924,7 @@
         "hr": "Bermudi",
         "fa": "برمودا"
      },
-     "flag": "/country-flags-svg/bmu.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/bmu.svg",
      "regionalBlocs": [],
      "cioc": "BER"
   },
@@ -1994,7 +1994,7 @@
         "hr": "Butan",
         "fa": "بوتان"
      },
-     "flag": "/country-flags-svg/btn.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/btn.svg",
      "regionalBlocs": [
         {
            "acronym": "SAARC",
@@ -2087,7 +2087,7 @@
         "hr": "Bolivija",
         "fa": "بولیوی"
      },
-     "flag": "/country-flags-svg/bol.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/bol.svg",
      "regionalBlocs": [
         {
            "acronym": "USAN",
@@ -2166,7 +2166,7 @@
         "hr": null,
         "fa": "بونیر"
      },
-     "flag": "/country-flags-svg/bes.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/bes.svg",
      "regionalBlocs": [],
      "cioc": null
   },
@@ -2245,7 +2245,7 @@
         "hr": "Bosna i Hercegovina",
         "fa": "بوسنی و هرزگوین"
      },
-     "flag": "/country-flags-svg/bih.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/bih.svg",
      "regionalBlocs": [
         {
            "acronym": "CEFTA",
@@ -2326,7 +2326,7 @@
         "hr": "Bocvana",
         "fa": "بوتسوانا"
      },
-     "flag": "/country-flags-svg/bwa.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/bwa.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -2414,7 +2414,7 @@
         "hr": "Otok Bouvet",
         "fa": "جزیره بووه"
      },
-     "flag": "/country-flags-svg/bvt.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/bvt.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -2492,7 +2492,7 @@
         "hr": "Brazil",
         "fa": "برزیل"
      },
-     "flag": "/country-flags-svg/bra.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/bra.svg",
      "regionalBlocs": [
         {
            "acronym": "USAN",
@@ -2569,7 +2569,7 @@
         "hr": "Britanski Indijskooceanski teritorij",
         "fa": "قلمرو بریتانیا در اقیانوس هند"
      },
-     "flag": "/country-flags-svg/iot.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/iot.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -2642,7 +2642,7 @@
         "hr": "Mali udaljeni otoci SAD-a",
         "fa": "جزایر کوچک حاشیه‌ای ایالات متحده آمریکا"
      },
-     "flag": "/country-flags-svg/umi.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/umi.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -2708,7 +2708,7 @@
         "hr": "Britanski Djevičanski Otoci",
         "fa": "جزایر ویرجین بریتانیا"
      },
-     "flag": "/country-flags-svg/vgb.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/vgb.svg",
      "regionalBlocs": [],
      "cioc": "IVB"
   },
@@ -2772,7 +2772,7 @@
         "hr": null,
         "fa": "جزایر ویرجین آمریکا"
      },
-     "flag": "/country-flags-svg/vir.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/vir.svg",
      "regionalBlocs": [],
      "cioc": "ISV"
   },
@@ -2842,7 +2842,7 @@
         "hr": "Brunej",
         "fa": "برونئی"
      },
-     "flag": "/country-flags-svg/brn.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/brn.svg",
      "regionalBlocs": [
         {
            "acronym": "ASEAN",
@@ -2918,7 +2918,7 @@
         "hr": "Bugarska",
         "fa": "بلغارستان"
      },
-     "flag": "/country-flags-svg/bgr.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/bgr.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -2999,7 +2999,7 @@
         "hr": "Burkina Faso",
         "fa": "بورکینافاسو"
      },
-     "flag": "/country-flags-svg/bfa.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/bfa.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -3086,7 +3086,7 @@
         "hr": "Burundi",
         "fa": "بوروندی"
      },
-     "flag": "/country-flags-svg/bdi.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/bdi.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -3170,7 +3170,7 @@
         "hr": "Kambodža",
         "fa": "کامبوج"
      },
-     "flag": "/country-flags-svg/khm.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/khm.svg",
      "regionalBlocs": [
         {
            "acronym": "ASEAN",
@@ -3253,7 +3253,7 @@
         "hr": "Kamerun",
         "fa": "کامرون"
      },
-     "flag": "/country-flags-svg/cmr.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/cmr.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -3340,7 +3340,7 @@
         "hr": "Kanada",
         "fa": "کانادا"
      },
-     "flag": "/country-flags-svg/can.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/can.svg",
      "regionalBlocs": [
         {
            "acronym": "NAFTA",
@@ -3413,7 +3413,7 @@
         "hr": "Zelenortska Republika",
         "fa": "کیپ ورد"
      },
-     "flag": "/country-flags-svg/cpv.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/cpv.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -3487,7 +3487,7 @@
         "hr": "Kajmanski otoci",
         "fa": "جزایر کیمن"
      },
-     "flag": "/country-flags-svg/cym.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/cym.svg",
      "regionalBlocs": [],
      "cioc": "CAY"
   },
@@ -3563,7 +3563,7 @@
         "hr": "Srednjoafrička Republika",
         "fa": "جمهوری آفریقای مرکزی"
      },
-     "flag": "/country-flags-svg/caf.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/caf.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -3653,7 +3653,7 @@
         "hr": "Čad",
         "fa": "چاد"
      },
-     "flag": "/country-flags-svg/tcd.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/tcd.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -3734,7 +3734,7 @@
         "hr": "Čile",
         "fa": "شیلی"
      },
-     "flag": "/country-flags-svg/chl.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/chl.svg",
      "regionalBlocs": [
         {
            "acronym": "PA",
@@ -3841,7 +3841,7 @@
         "hr": "Kina",
         "fa": "چین"
      },
-     "flag": "/country-flags-svg/chn.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/chn.svg",
      "regionalBlocs": [],
      "cioc": "CHN"
   },
@@ -3903,7 +3903,7 @@
         "hr": "Božićni otok",
         "fa": "جزیره کریسمس"
      },
-     "flag": "/country-flags-svg/cxr.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/cxr.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -3966,7 +3966,7 @@
         "hr": "Kokosovi Otoci",
         "fa": "جزایر کوکوس"
      },
-     "flag": "/country-flags-svg/cck.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/cck.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -4035,7 +4035,7 @@
         "hr": "Kolumbija",
         "fa": "کلمبیا"
      },
-     "flag": "/country-flags-svg/col.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/col.svg",
      "regionalBlocs": [
         {
            "acronym": "PA",
@@ -4130,7 +4130,7 @@
         "hr": "Komori",
         "fa": "کومور"
      },
-     "flag": "/country-flags-svg/com.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/com.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -4227,7 +4227,7 @@
         "hr": "Kongo",
         "fa": "کنگو"
      },
-     "flag": "/country-flags-svg/cog.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/cog.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -4339,7 +4339,7 @@
         "hr": "Kongo, Demokratska Republika",
         "fa": "جمهوری کنگو"
      },
-     "flag": "/country-flags-svg/cod.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/cod.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -4419,7 +4419,7 @@
         "hr": "Cookovo Otočje",
         "fa": "جزایر کوک"
      },
-     "flag": "/country-flags-svg/cok.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/cok.svg",
      "regionalBlocs": [],
      "cioc": "COK"
   },
@@ -4485,7 +4485,7 @@
         "hr": "Kostarika",
         "fa": "کاستاریکا"
      },
-     "flag": "/country-flags-svg/cri.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/cri.svg",
      "regionalBlocs": [
         {
            "acronym": "CAIS",
@@ -4566,7 +4566,7 @@
         "hr": "Hrvatska",
         "fa": "کرواسی"
      },
-     "flag": "/country-flags-svg/hrv.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/hrv.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -4641,7 +4641,7 @@
         "hr": "Kuba",
         "fa": "کوبا"
      },
-     "flag": "/country-flags-svg/cub.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/cub.svg",
      "regionalBlocs": [],
      "cioc": "CUB"
   },
@@ -4719,7 +4719,7 @@
         "hr": null,
         "fa": "کوراسائو"
      },
-     "flag": "/country-flags-svg/cuw.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/cuw.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -4799,7 +4799,7 @@
         "hr": "Cipar",
         "fa": "قبرس"
      },
-     "flag": "/country-flags-svg/cyp.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/cyp.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -4880,7 +4880,7 @@
         "hr": "Češka",
         "fa": "جمهوری چک"
      },
-     "flag": "/country-flags-svg/cze.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/cze.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -4957,7 +4957,7 @@
         "hr": "Danska",
         "fa": "دانمارک"
      },
-     "flag": "/country-flags-svg/dnk.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/dnk.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -5041,7 +5041,7 @@
         "hr": "Džibuti",
         "fa": "جیبوتی"
      },
-     "flag": "/country-flags-svg/dji.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/dji.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -5128,7 +5128,7 @@
         "hr": "Dominika",
         "fa": "دومینیکا"
      },
-     "flag": "/country-flags-svg/dma.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/dma.svg",
      "regionalBlocs": [],
      "cioc": "DMA"
   },
@@ -5193,7 +5193,7 @@
         "hr": "Dominikanska Republika",
         "fa": "جمهوری دومینیکن"
      },
-     "flag": "/country-flags-svg/dom.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/dom.svg",
      "regionalBlocs": [
         {
            "acronym": "CARICOM",
@@ -5281,7 +5281,7 @@
         "hr": "Ekvador",
         "fa": "اکوادور"
      },
-     "flag": "/country-flags-svg/ecu.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/ecu.svg",
      "regionalBlocs": [
         {
            "acronym": "USAN",
@@ -5363,7 +5363,7 @@
         "hr": "Egipat",
         "fa": "مصر"
      },
-     "flag": "/country-flags-svg/egy.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/egy.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -5452,7 +5452,7 @@
         "hr": "Salvador",
         "fa": "السالوادور"
      },
-     "flag": "/country-flags-svg/slv.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/slv.svg",
      "regionalBlocs": [
         {
            "acronym": "CAIS",
@@ -5537,7 +5537,7 @@
         "hr": "Ekvatorijalna Gvineja",
         "fa": "گینه استوایی"
      },
-     "flag": "/country-flags-svg/gnq.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/gnq.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -5633,7 +5633,7 @@
         "hr": "Eritreja",
         "fa": "اریتره"
      },
-     "flag": "/country-flags-svg/eri.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/eri.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -5713,7 +5713,7 @@
         "hr": "Estonija",
         "fa": "استونی"
      },
-     "flag": "/country-flags-svg/est.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/est.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -5791,7 +5791,7 @@
         "hr": "Etiopija",
         "fa": "اتیوپی"
      },
-     "flag": "/country-flags-svg/eth.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/eth.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -5866,7 +5866,7 @@
         "hr": "Falklandski Otoci",
         "fa": "جزایر فالکلند"
      },
-     "flag": "/country-flags-svg/flk.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/flk.svg",
      "regionalBlocs": [
         {
            "acronym": "USAN",
@@ -5950,7 +5950,7 @@
         "hr": "Farski Otoci",
         "fa": "جزایر فارو"
      },
-     "flag": "/country-flags-svg/fro.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/fro.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -6040,7 +6040,7 @@
         "hr": "Fiđi",
         "fa": "فیجی"
      },
-     "flag": "/country-flags-svg/fji.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/fji.svg",
      "regionalBlocs": [],
      "cioc": "FIJ"
   },
@@ -6115,7 +6115,7 @@
         "hr": "Finska",
         "fa": "فنلاند"
      },
-     "flag": "/country-flags-svg/fin.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/fin.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -6205,7 +6205,7 @@
         "hr": "Francuska",
         "fa": "فرانسه"
      },
-     "flag": "/country-flags-svg/fra.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/fra.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -6278,7 +6278,7 @@
         "hr": "Francuska Gvajana",
         "fa": "گویان فرانسه"
      },
-     "flag": "/country-flags-svg/guf.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/guf.svg",
      "regionalBlocs": [
         {
            "acronym": "USAN",
@@ -6366,7 +6366,7 @@
         "hr": "Francuska Polinezija",
         "fa": "پلی‌نزی فرانسه"
      },
-     "flag": "/country-flags-svg/pyf.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/pyf.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -6427,7 +6427,7 @@
         "hr": "Francuski južni i antarktički teritoriji",
         "fa": "سرزمین‌های جنوبی و جنوبگانی فرانسه"
      },
-     "flag": "/country-flags-svg/atf.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/atf.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -6507,7 +6507,7 @@
         "hr": "Gabon",
         "fa": "گابن"
      },
-     "flag": "/country-flags-svg/gab.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/gab.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -6584,7 +6584,7 @@
         "hr": "Gambija",
         "fa": "گامبیا"
      },
-     "flag": "/country-flags-svg/gmb.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/gmb.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -6664,7 +6664,7 @@
         "hr": "Gruzija",
         "fa": "گرجستان"
      },
-     "flag": "/country-flags-svg/geo.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/geo.svg",
      "regionalBlocs": [],
      "cioc": "GEO"
   },
@@ -6737,7 +6737,7 @@
         "hr": "Njemačka",
         "fa": "آلمان"
      },
-     "flag": "/country-flags-svg/deu.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/deu.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -6809,7 +6809,7 @@
         "hr": "Gana",
         "fa": "غنا"
      },
-     "flag": "/country-flags-svg/gha.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/gha.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -6885,7 +6885,7 @@
         "hr": "Gibraltar",
         "fa": "جبل‌طارق"
      },
-     "flag": "/country-flags-svg/gib.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/gib.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -6961,7 +6961,7 @@
         "hr": "Grčka",
         "fa": "یونان"
      },
-     "flag": "/country-flags-svg/grc.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/grc.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -7033,7 +7033,7 @@
         "hr": "Grenland",
         "fa": "گرینلند"
      },
-     "flag": "/country-flags-svg/grl.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/grl.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -7094,7 +7094,7 @@
         "hr": "Grenada",
         "fa": "گرنادا"
      },
-     "flag": "/country-flags-svg/grd.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/grd.svg",
      "regionalBlocs": [
         {
            "acronym": "CARICOM",
@@ -7167,7 +7167,7 @@
         "hr": "Gvadalupa",
         "fa": "جزیره گوادلوپ"
      },
-     "flag": "/country-flags-svg/glp.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/glp.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -7241,7 +7241,7 @@
         "hr": "Guam",
         "fa": "گوام"
      },
-     "flag": "/country-flags-svg/gum.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/gum.svg",
      "regionalBlocs": [],
      "cioc": "GUM"
   },
@@ -7307,7 +7307,7 @@
         "hr": "Gvatemala",
         "fa": "گواتمالا"
      },
-     "flag": "/country-flags-svg/gtm.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/gtm.svg",
      "regionalBlocs": [
         {
            "acronym": "CAIS",
@@ -7392,7 +7392,7 @@
         "hr": "Guernsey",
         "fa": "گرنزی"
      },
-     "flag": "/country-flags-svg/ggy.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/ggy.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -7468,7 +7468,7 @@
         "hr": "Gvineja",
         "fa": "گینه"
      },
-     "flag": "/country-flags-svg/gin.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/gin.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -7547,7 +7547,7 @@
         "hr": "Gvineja Bisau",
         "fa": "گینه بیسائو"
      },
-     "flag": "/country-flags-svg/gnb.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/gnb.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -7626,7 +7626,7 @@
         "hr": "Gvajana",
         "fa": "گویان"
      },
-     "flag": "/country-flags-svg/guy.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/guy.svg",
      "regionalBlocs": [
         {
            "acronym": "CARICOM",
@@ -7724,7 +7724,7 @@
         "hr": "Haiti",
         "fa": "هائیتی"
      },
-     "flag": "/country-flags-svg/hti.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/hti.svg",
      "regionalBlocs": [
         {
            "acronym": "CARICOM",
@@ -7797,7 +7797,7 @@
         "hr": "Otok Heard i otočje McDonald",
         "fa": "جزیره هرد و جزایر مک‌دونالد"
      },
-     "flag": "/country-flags-svg/hmd.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/hmd.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -7880,7 +7880,7 @@
         "hr": "Sveta Stolica",
         "fa": "سریر مقدس"
      },
-     "flag": "/country-flags-svg/vat.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/vat.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -7947,7 +7947,7 @@
         "hr": "Honduras",
         "fa": "هندوراس"
      },
-     "flag": "/country-flags-svg/hnd.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/hnd.svg",
      "regionalBlocs": [
         {
            "acronym": "CAIS",
@@ -8028,7 +8028,7 @@
         "hr": "Hong Kong",
         "fa": "هنگ‌کنگ"
      },
-     "flag": "/country-flags-svg/hkg.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/hkg.svg",
      "regionalBlocs": [],
      "cioc": "HKG"
   },
@@ -8097,7 +8097,7 @@
         "hr": "Mađarska",
         "fa": "مجارستان"
      },
-     "flag": "/country-flags-svg/hun.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/hun.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -8168,7 +8168,7 @@
         "hr": "Island",
         "fa": "ایسلند"
      },
-     "flag": "/country-flags-svg/isl.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/isl.svg",
      "regionalBlocs": [
         {
            "acronym": "EFTA",
@@ -8254,7 +8254,7 @@
         "hr": "Indija",
         "fa": "هند"
      },
-     "flag": "/country-flags-svg/ind.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/ind.svg",
      "regionalBlocs": [
         {
            "acronym": "SAARC",
@@ -8330,7 +8330,7 @@
         "hr": "Indonezija",
         "fa": "اندونزی"
      },
-     "flag": "/country-flags-svg/idn.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/idn.svg",
      "regionalBlocs": [
         {
            "acronym": "ASEAN",
@@ -8407,7 +8407,7 @@
         "hr": "Obala Bjelokosti",
         "fa": "ساحل عاج"
      },
-     "flag": "/country-flags-svg/civ.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/civ.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -8491,7 +8491,7 @@
         "hr": "Iran",
         "fa": "ایران"
      },
-     "flag": "/country-flags-svg/irn.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/irn.svg",
      "regionalBlocs": [],
      "cioc": "IRI"
   },
@@ -8567,7 +8567,7 @@
         "hr": "Irak",
         "fa": "عراق"
      },
-     "flag": "/country-flags-svg/irq.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/irq.svg",
      "regionalBlocs": [
         {
            "acronym": "AL",
@@ -8650,7 +8650,7 @@
         "hr": "Irska",
         "fa": "ایرلند"
      },
-     "flag": "/country-flags-svg/irl.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/irl.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -8732,7 +8732,7 @@
         "hr": "Otok Man",
         "fa": "جزیره من"
      },
-     "flag": "/country-flags-svg/imn.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/imn.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -8813,7 +8813,7 @@
         "hr": "Izrael",
         "fa": "اسرائیل"
      },
-     "flag": "/country-flags-svg/isr.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/isr.svg",
      "regionalBlocs": [],
      "cioc": "ISR"
   },
@@ -8883,7 +8883,7 @@
         "hr": "Italija",
         "fa": "ایتالیا"
      },
-     "flag": "/country-flags-svg/ita.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/ita.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -8951,7 +8951,7 @@
         "hr": "Jamajka",
         "fa": "جامائیکا"
      },
-     "flag": "/country-flags-svg/jam.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/jam.svg",
      "regionalBlocs": [
         {
            "acronym": "CARICOM",
@@ -9025,7 +9025,7 @@
         "hr": "Japan",
         "fa": "ژاپن"
      },
-     "flag": "/country-flags-svg/jpn.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/jpn.svg",
      "regionalBlocs": [],
      "cioc": "JPN"
   },
@@ -9100,7 +9100,7 @@
         "hr": "Jersey",
         "fa": "جرزی"
      },
-     "flag": "/country-flags-svg/jey.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/jey.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -9168,7 +9168,7 @@
         "hr": "Jordan",
         "fa": "اردن"
      },
-     "flag": "/country-flags-svg/jor.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/jor.svg",
      "regionalBlocs": [
         {
            "acronym": "AL",
@@ -9262,7 +9262,7 @@
         "hr": "Kazahstan",
         "fa": "قزاقستان"
      },
-     "flag": "/country-flags-svg/kaz.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/kaz.svg",
      "regionalBlocs": [
         {
            "acronym": "EEU",
@@ -9346,7 +9346,7 @@
         "hr": "Kenija",
         "fa": "کنیا"
      },
-     "flag": "/country-flags-svg/ken.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/ken.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -9429,7 +9429,7 @@
         "hr": "Kiribati",
         "fa": "کیریباتی"
      },
-     "flag": "/country-flags-svg/kir.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/kir.svg",
      "regionalBlocs": [],
      "cioc": "KIR"
   },
@@ -9495,7 +9495,7 @@
         "hr": "Kuvajt",
         "fa": "کویت"
      },
-     "flag": "/country-flags-svg/kwt.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/kwt.svg",
      "regionalBlocs": [
         {
            "acronym": "AL",
@@ -9582,7 +9582,7 @@
         "hr": "Kirgistan",
         "fa": "قرقیزستان"
      },
-     "flag": "/country-flags-svg/kgz.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/kgz.svg",
      "regionalBlocs": [
         {
            "acronym": "EEU",
@@ -9662,7 +9662,7 @@
         "hr": "Laos",
         "fa": "لائوس"
      },
-     "flag": "/country-flags-svg/lao.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/lao.svg",
      "regionalBlocs": [
         {
            "acronym": "ASEAN",
@@ -9737,7 +9737,7 @@
         "hr": "Latvija",
         "fa": "لتونی"
      },
-     "flag": "/country-flags-svg/lva.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/lva.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -9816,7 +9816,7 @@
         "hr": "Libanon",
         "fa": "لبنان"
      },
-     "flag": "/country-flags-svg/lbn.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/lbn.svg",
      "regionalBlocs": [
         {
            "acronym": "AL",
@@ -9903,7 +9903,7 @@
         "hr": "Lesoto",
         "fa": "لسوتو"
      },
-     "flag": "/country-flags-svg/lso.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/lso.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -9982,7 +9982,7 @@
         "hr": "Liberija",
         "fa": "لیبریا"
      },
-     "flag": "/country-flags-svg/lbr.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/lbr.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -10065,7 +10065,7 @@
         "hr": "Libija",
         "fa": "لیبی"
      },
-     "flag": "/country-flags-svg/lby.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/lby.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -10154,7 +10154,7 @@
         "hr": "Lihtenštajn",
         "fa": "لیختن‌اشتاین"
      },
-     "flag": "/country-flags-svg/lie.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/lie.svg",
      "regionalBlocs": [
         {
            "acronym": "EFTA",
@@ -10229,7 +10229,7 @@
         "hr": "Litva",
         "fa": "لیتوانی"
      },
-     "flag": "/country-flags-svg/ltu.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/ltu.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -10317,7 +10317,7 @@
         "hr": "Luksemburg",
         "fa": "لوکزامبورگ"
      },
-     "flag": "/country-flags-svg/lux.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/lux.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -10397,7 +10397,7 @@
         "hr": "Makao",
         "fa": "مکائو"
      },
-     "flag": "/country-flags-svg/mac.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/mac.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -10466,7 +10466,7 @@
         "hr": "Makedonija",
         "fa": ""
      },
-     "flag": "/country-flags-svg/mkd.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/mkd.svg",
      "regionalBlocs": [
         {
            "acronym": "CEFTA",
@@ -10543,7 +10543,7 @@
         "hr": "Madagaskar",
         "fa": "ماداگاسکار"
      },
-     "flag": "/country-flags-svg/mdg.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/mdg.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -10628,7 +10628,7 @@
         "hr": "Malavi",
         "fa": "مالاوی"
      },
-     "flag": "/country-flags-svg/mwi.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/mwi.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -10706,7 +10706,7 @@
         "hr": "Malezija",
         "fa": "مالزی"
      },
-     "flag": "/country-flags-svg/mys.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/mys.svg",
      "regionalBlocs": [
         {
            "acronym": "ASEAN",
@@ -10777,7 +10777,7 @@
         "hr": "Maldivi",
         "fa": "مالدیو"
      },
-     "flag": "/country-flags-svg/mdv.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/mdv.svg",
      "regionalBlocs": [
         {
            "acronym": "SAARC",
@@ -10855,7 +10855,7 @@
         "hr": "Mali",
         "fa": "مالی"
      },
-     "flag": "/country-flags-svg/mli.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/mli.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -10937,7 +10937,7 @@
         "hr": "Malta",
         "fa": "مالت"
      },
-     "flag": "/country-flags-svg/mlt.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/mlt.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -11013,7 +11013,7 @@
         "hr": "Maršalovi Otoci",
         "fa": "جزایر مارشال"
      },
-     "flag": "/country-flags-svg/mhl.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/mhl.svg",
      "regionalBlocs": [],
      "cioc": "MHL"
   },
@@ -11074,7 +11074,7 @@
         "hr": "Martinique",
         "fa": "مونتسرات"
      },
-     "flag": "/country-flags-svg/mtq.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/mtq.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -11142,7 +11142,7 @@
         "hr": "Mauritanija",
         "fa": "موریتانی"
      },
-     "flag": "/country-flags-svg/mrt.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/mrt.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -11228,7 +11228,7 @@
         "hr": "Mauricijus",
         "fa": "موریس"
      },
-     "flag": "/country-flags-svg/mus.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/mus.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -11304,7 +11304,7 @@
         "hr": "Mayotte",
         "fa": "مایوت"
      },
-     "flag": "/country-flags-svg/myt.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/myt.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -11387,7 +11387,7 @@
         "hr": "Meksiko",
         "fa": "مکزیک"
      },
-     "flag": "/country-flags-svg/mex.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/mex.svg",
      "regionalBlocs": [
         {
            "acronym": "PA",
@@ -11473,7 +11473,7 @@
         "hr": "Mikronezija",
         "fa": "ایالات فدرال میکرونزی"
      },
-     "flag": "/country-flags-svg/fsm.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/fsm.svg",
      "regionalBlocs": [],
      "cioc": "FSM"
   },
@@ -11539,7 +11539,7 @@
         "hr": "Moldova",
         "fa": "مولداوی"
      },
-     "flag": "/country-flags-svg/mda.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/mda.svg",
      "regionalBlocs": [
         {
            "acronym": "CEFTA",
@@ -11611,7 +11611,7 @@
         "hr": "Monako",
         "fa": "موناکو"
      },
-     "flag": "/country-flags-svg/mco.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/mco.svg",
      "regionalBlocs": [],
      "cioc": "MON"
   },
@@ -11676,7 +11676,7 @@
         "hr": "Mongolija",
         "fa": "مغولستان"
      },
-     "flag": "/country-flags-svg/mng.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/mng.svg",
      "regionalBlocs": [],
      "cioc": "MGL"
   },
@@ -11762,7 +11762,7 @@
         "hr": "Crna Gora",
         "fa": "مونته‌نگرو"
      },
-     "flag": "/country-flags-svg/mne.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/mne.svg",
      "regionalBlocs": [
         {
            "acronym": "CEFTA",
@@ -11830,7 +11830,7 @@
         "hr": "Montserrat",
         "fa": "مایوت"
      },
-     "flag": "/country-flags-svg/msr.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/msr.svg",
      "regionalBlocs": [
         {
            "acronym": "CARICOM",
@@ -11908,7 +11908,7 @@
         "hr": "Maroko",
         "fa": "مراکش"
      },
-     "flag": "/country-flags-svg/mar.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/mar.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -12001,7 +12001,7 @@
         "hr": "Mozambik",
         "fa": "موزامبیک"
      },
-     "flag": "/country-flags-svg/moz.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/moz.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -12084,7 +12084,7 @@
         "hr": "Mijanmar",
         "fa": "میانمار"
      },
-     "flag": "/country-flags-svg/mmr.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/mmr.svg",
      "regionalBlocs": [
         {
            "acronym": "ASEAN",
@@ -12170,7 +12170,7 @@
         "hr": "Namibija",
         "fa": "نامیبیا"
      },
-     "flag": "/country-flags-svg/nam.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/nam.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -12259,7 +12259,7 @@
         "hr": "Nauru",
         "fa": "نائورو"
      },
-     "flag": "/country-flags-svg/nru.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/nru.svg",
      "regionalBlocs": [],
      "cioc": "NRU"
   },
@@ -12325,7 +12325,7 @@
         "hr": "Nepal",
         "fa": "نپال"
      },
-     "flag": "/country-flags-svg/npl.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/npl.svg",
      "regionalBlocs": [
         {
            "acronym": "SAARC",
@@ -12399,7 +12399,7 @@
         "hr": "Nizozemska",
         "fa": "پادشاهی هلند"
      },
-     "flag": "/country-flags-svg/nld.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/nld.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -12467,7 +12467,7 @@
         "hr": "Nova Kaledonija",
         "fa": "کالدونیای جدید"
      },
-     "flag": "/country-flags-svg/ncl.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/ncl.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -12539,7 +12539,7 @@
         "hr": "Novi Zeland",
         "fa": "نیوزیلند"
      },
-     "flag": "/country-flags-svg/nzl.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/nzl.svg",
      "regionalBlocs": [],
      "cioc": "NZL"
   },
@@ -12605,7 +12605,7 @@
         "hr": "Nikaragva",
         "fa": "نیکاراگوئه"
      },
-     "flag": "/country-flags-svg/nic.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/nic.svg",
      "regionalBlocs": [
         {
            "acronym": "CAIS",
@@ -12688,7 +12688,7 @@
         "hr": "Niger",
         "fa": "نیجر"
      },
-     "flag": "/country-flags-svg/ner.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/ner.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -12770,7 +12770,7 @@
         "hr": "Nigerija",
         "fa": "نیجریه"
      },
-     "flag": "/country-flags-svg/nga.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/nga.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -12849,7 +12849,7 @@
         "hr": "Niue",
         "fa": "نیووی"
      },
-     "flag": "/country-flags-svg/niu.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/niu.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -12912,7 +12912,7 @@
         "hr": "Otok Norfolk",
         "fa": "جزیره نورفک"
      },
-     "flag": "/country-flags-svg/nfk.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/nfk.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -12980,7 +12980,7 @@
         "hr": "Sjeverna Koreja",
         "fa": "کره جنوبی"
      },
-     "flag": "/country-flags-svg/prk.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/prk.svg",
      "regionalBlocs": [],
      "cioc": "PRK"
   },
@@ -13049,7 +13049,7 @@
         "hr": "Sjevernomarijanski otoci",
         "fa": "جزایر ماریانای شمالی"
      },
-     "flag": "/country-flags-svg/mnp.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/mnp.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -13131,7 +13131,7 @@
         "hr": "Norveška",
         "fa": "نروژ"
      },
-     "flag": "/country-flags-svg/nor.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/nor.svg",
      "regionalBlocs": [
         {
            "acronym": "EFTA",
@@ -13205,7 +13205,7 @@
         "hr": "Oman",
         "fa": "عمان"
      },
-     "flag": "/country-flags-svg/omn.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/omn.svg",
      "regionalBlocs": [
         {
            "acronym": "AL",
@@ -13291,7 +13291,7 @@
         "hr": "Pakistan",
         "fa": "پاکستان"
      },
-     "flag": "/country-flags-svg/pak.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/pak.svg",
      "regionalBlocs": [
         {
            "acronym": "SAARC",
@@ -13366,7 +13366,7 @@
         "hr": "Palau",
         "fa": "پالائو"
      },
-     "flag": "/country-flags-svg/plw.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/plw.svg",
      "regionalBlocs": [],
      "cioc": "PLW"
   },
@@ -13433,7 +13433,7 @@
         "hr": "Palestina",
         "fa": "فلسطین"
      },
-     "flag": "/country-flags-svg/pse.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/pse.svg",
      "regionalBlocs": [
         {
            "acronym": "AL",
@@ -13515,7 +13515,7 @@
         "hr": "Panama",
         "fa": "پاناما"
      },
-     "flag": "/country-flags-svg/pan.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/pan.svg",
      "regionalBlocs": [
         {
            "acronym": "CAIS",
@@ -13591,7 +13591,7 @@
         "hr": "Papua Nova Gvineja",
         "fa": "پاپوآ گینه نو"
      },
-     "flag": "/country-flags-svg/png.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/png.svg",
      "regionalBlocs": [],
      "cioc": "PNG"
   },
@@ -13665,7 +13665,7 @@
         "hr": "Paragvaj",
         "fa": "پاراگوئه"
      },
-     "flag": "/country-flags-svg/pry.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/pry.svg",
      "regionalBlocs": [
         {
            "acronym": "USAN",
@@ -13750,7 +13750,7 @@
         "hr": "Peru",
         "fa": "پرو"
      },
-     "flag": "/country-flags-svg/per.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/per.svg",
      "regionalBlocs": [
         {
            "acronym": "PA",
@@ -13837,7 +13837,7 @@
         "hr": "Filipini",
         "fa": "جزایر الندفیلیپین"
      },
-     "flag": "/country-flags-svg/phl.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/phl.svg",
      "regionalBlocs": [
         {
            "acronym": "ASEAN",
@@ -13911,7 +13911,7 @@
         "hr": "Pitcairnovo otočje",
         "fa": "پیتکرن"
      },
-     "flag": "/country-flags-svg/pcn.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/pcn.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -13982,7 +13982,7 @@
         "hr": "Poljska",
         "fa": "لهستان"
      },
-     "flag": "/country-flags-svg/pol.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/pol.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -14056,7 +14056,7 @@
         "hr": "Portugal",
         "fa": "پرتغال"
      },
-     "flag": "/country-flags-svg/prt.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/prt.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -14133,7 +14133,7 @@
         "hr": "Portoriko",
         "fa": "پورتو ریکو"
      },
-     "flag": "/country-flags-svg/pri.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/pri.svg",
      "regionalBlocs": [],
      "cioc": "PUR"
   },
@@ -14198,7 +14198,7 @@
         "hr": "Katar",
         "fa": "قطر"
      },
-     "flag": "/country-flags-svg/qat.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/qat.svg",
      "regionalBlocs": [
         {
            "acronym": "AL",
@@ -14282,7 +14282,7 @@
         "hr": "Kosovo",
         "fa": "کوزوو"
      },
-     "flag": "/country-flags-svg/kos.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/kos.svg",
      "regionalBlocs": [
         {
            "acronym": "CEFTA",
@@ -14351,7 +14351,7 @@
         "hr": "Réunion",
         "fa": "رئونیون"
      },
-     "flag": "/country-flags-svg/reu.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/reu.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -14434,7 +14434,7 @@
         "hr": "Rumunjska",
         "fa": "رومانی"
      },
-     "flag": "/country-flags-svg/rou.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/rou.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -14529,7 +14529,7 @@
         "hr": "Rusija",
         "fa": "روسیه"
      },
-     "flag": "/country-flags-svg/rus.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/rus.svg",
      "regionalBlocs": [
         {
            "acronym": "EEU",
@@ -14619,7 +14619,7 @@
         "hr": "Ruanda",
         "fa": "رواندا"
      },
-     "flag": "/country-flags-svg/rwa.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/rwa.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -14696,7 +14696,7 @@
         "hr": "Saint Barthélemy",
         "fa": "سن-بارتلمی"
      },
-     "flag": "/country-flags-svg/blm.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/blm.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -14757,7 +14757,7 @@
         "hr": "Sveta Helena",
         "fa": "سنت هلنا، اسنشن و تریستان دا کونا"
      },
-     "flag": "/country-flags-svg/shn.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/shn.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -14832,7 +14832,7 @@
         "hr": "Sveti Kristof i Nevis",
         "fa": "سنت کیتس و نویس"
      },
-     "flag": "/country-flags-svg/kna.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/kna.svg",
      "regionalBlocs": [
         {
            "acronym": "CARICOM",
@@ -14904,7 +14904,7 @@
         "hr": "Sveta Lucija",
         "fa": "سنت لوسیا"
      },
-     "flag": "/country-flags-svg/lca.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/lca.svg",
      "regionalBlocs": [
         {
            "acronym": "CARICOM",
@@ -14995,7 +14995,7 @@
         "hr": "Sveti Martin",
         "fa": "سینت مارتن"
      },
-     "flag": "/country-flags-svg/maf.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/maf.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -15057,7 +15057,7 @@
         "hr": "Sveti Petar i Mikelon",
         "fa": "سن پیر و میکلن"
      },
-     "flag": "/country-flags-svg/spm.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/spm.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -15118,7 +15118,7 @@
         "hr": "Sveti Vincent i Grenadini",
         "fa": "سنت وینسنت و گرنادین‌ها"
      },
-     "flag": "/country-flags-svg/vct.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/vct.svg",
      "regionalBlocs": [
         {
            "acronym": "CARICOM",
@@ -15198,7 +15198,7 @@
         "hr": "Samoa",
         "fa": "ساموآ"
      },
-     "flag": "/country-flags-svg/wsm.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/wsm.svg",
      "regionalBlocs": [],
      "cioc": "SAM"
   },
@@ -15263,7 +15263,7 @@
         "hr": "San Marino",
         "fa": "سان مارینو"
      },
-     "flag": "/country-flags-svg/smr.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/smr.svg",
      "regionalBlocs": [],
      "cioc": "SMR"
   },
@@ -15326,7 +15326,7 @@
         "hr": "Sveti Toma i Princip",
         "fa": "کواترو دو فرویرو"
      },
-     "flag": "/country-flags-svg/stp.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/stp.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -15410,7 +15410,7 @@
         "hr": "Saudijska Arabija",
         "fa": "عربستان سعودی"
      },
-     "flag": "/country-flags-svg/sau.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/sau.svg",
      "regionalBlocs": [
         {
            "acronym": "AL",
@@ -15490,7 +15490,7 @@
         "hr": "Senegal",
         "fa": "سنگال"
      },
-     "flag": "/country-flags-svg/sen.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/sen.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -15577,7 +15577,7 @@
         "hr": "Srbija",
         "fa": "صربستان"
      },
-     "flag": "/country-flags-svg/srb.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/srb.svg",
      "regionalBlocs": [
         {
            "acronym": "CEFTA",
@@ -15654,7 +15654,7 @@
         "hr": "Sejšeli",
         "fa": "سیشل"
      },
-     "flag": "/country-flags-svg/syc.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/syc.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -15732,7 +15732,7 @@
         "hr": "Sijera Leone",
         "fa": "سیرالئون"
      },
-     "flag": "/country-flags-svg/sle.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/sle.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -15832,7 +15832,7 @@
         "hr": "Singapur",
         "fa": "سنگاپور"
      },
-     "flag": "/country-flags-svg/sgp.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/sgp.svg",
      "regionalBlocs": [
         {
            "acronym": "ASEAN",
@@ -15908,7 +15908,7 @@
         "hr": null,
         "fa": "سینت مارتن"
      },
-     "flag": "/country-flags-svg/sxm.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/sxm.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -15977,7 +15977,7 @@
         "hr": "Slovačka",
         "fa": "اسلواکی"
      },
-     "flag": "/country-flags-svg/svk.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/svk.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -16052,7 +16052,7 @@
         "hr": "Slovenija",
         "fa": "اسلوونی"
      },
-     "flag": "/country-flags-svg/svn.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/svn.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -16120,7 +16120,7 @@
         "hr": "Solomonski Otoci",
         "fa": "جزایر سلیمان"
      },
-     "flag": "/country-flags-svg/slb.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/slb.svg",
      "regionalBlocs": [],
      "cioc": "SOL"
   },
@@ -16195,7 +16195,7 @@
         "hr": "Somalija",
         "fa": "سومالی"
      },
-     "flag": "/country-flags-svg/som.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/som.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -16343,7 +16343,7 @@
         "hr": "Južnoafrička Republika",
         "fa": "آفریقای جنوبی"
      },
-     "flag": "/country-flags-svg/zaf.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/zaf.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -16423,7 +16423,7 @@
         "hr": "Južna Georgija i otočje Južni Sandwich",
         "fa": "جزایر جورجیای جنوبی و ساندویچ جنوبی"
      },
-     "flag": "/country-flags-svg/sgs.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/sgs.svg",
      "regionalBlocs": [
         {
            "acronym": "USAN",
@@ -16503,7 +16503,7 @@
         "hr": "Južna Koreja",
         "fa": "کره شمالی"
      },
-     "flag": "/country-flags-svg/kor.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/kor.svg",
      "regionalBlocs": [],
      "cioc": "KOR"
   },
@@ -16571,7 +16571,7 @@
         "hr": "Južni Sudan",
         "fa": "سودان جنوبی"
      },
-     "flag": "/country-flags-svg/ssd.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/ssd.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -16654,7 +16654,7 @@
         "hr": "Španjolska",
         "fa": "اسپانیا"
      },
-     "flag": "/country-flags-svg/esp.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/esp.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -16732,7 +16732,7 @@
         "hr": "Šri Lanka",
         "fa": "سری‌لانکا"
      },
-     "flag": "/country-flags-svg/lka.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/lka.svg",
      "regionalBlocs": [
         {
            "acronym": "SAARC",
@@ -16816,7 +16816,7 @@
         "hr": "Sudan",
         "fa": "سودان"
      },
-     "flag": "/country-flags-svg/sdn.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/sdn.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -16909,7 +16909,7 @@
         "hr": "Surinam",
         "fa": "سورینام"
      },
-     "flag": "/country-flags-svg/sur.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/sur.svg",
      "regionalBlocs": [
         {
            "acronym": "CARICOM",
@@ -16997,7 +16997,7 @@
         "hr": "Svalbard i Jan Mayen",
         "fa": "سوالبارد و یان ماین"
      },
-     "flag": "/country-flags-svg/sjm.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/sjm.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -17072,7 +17072,7 @@
         "hr": "Svazi",
         "fa": "سوازیلند"
      },
-     "flag": "/country-flags-svg/swz.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/swz.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -17151,7 +17151,7 @@
         "hr": "Švedska",
         "fa": "سوئد"
      },
-     "flag": "/country-flags-svg/swe.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/swe.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -17242,7 +17242,7 @@
         "hr": "Švicarska",
         "fa": "سوئیس"
      },
-     "flag": "/country-flags-svg/che.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/che.svg",
      "regionalBlocs": [
         {
            "acronym": "EFTA",
@@ -17318,7 +17318,7 @@
         "hr": "Sirija",
         "fa": "سوریه"
      },
-     "flag": "/country-flags-svg/syr.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/syr.svg",
      "regionalBlocs": [
         {
            "acronym": "AL",
@@ -17394,7 +17394,7 @@
         "hr": "Tajvan",
         "fa": "تایوان"
      },
-     "flag": "/country-flags-svg/twn.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/twn.svg",
      "regionalBlocs": [],
      "cioc": "TPE"
   },
@@ -17470,7 +17470,7 @@
         "hr": "Tađikistan",
         "fa": "تاجیکستان"
      },
-     "flag": "/country-flags-svg/tjk.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/tjk.svg",
      "regionalBlocs": [],
      "cioc": "TJK"
   },
@@ -17548,7 +17548,7 @@
         "hr": "Tanzanija",
         "fa": "تانزانیا"
      },
-     "flag": "/country-flags-svg/tza.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/tza.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -17632,7 +17632,7 @@
         "hr": "Tajland",
         "fa": "تایلند"
      },
-     "flag": "/country-flags-svg/tha.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/tha.svg",
      "regionalBlocs": [
         {
            "acronym": "ASEAN",
@@ -17711,7 +17711,7 @@
         "hr": "Istočni Timor",
         "fa": "تیمور شرقی"
      },
-     "flag": "/country-flags-svg/tls.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/tls.svg",
      "regionalBlocs": [],
      "cioc": "TLS"
   },
@@ -17779,7 +17779,7 @@
         "hr": "Togo",
         "fa": "توگو"
      },
-     "flag": "/country-flags-svg/tgo.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/tgo.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -17853,7 +17853,7 @@
         "hr": "Tokelau",
         "fa": "توکلائو"
      },
-     "flag": "/country-flags-svg/tkl.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/tkl.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -17920,7 +17920,7 @@
         "hr": "Tonga",
         "fa": "تونگا"
      },
-     "flag": "/country-flags-svg/ton.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/ton.svg",
      "regionalBlocs": [],
      "cioc": "TGA"
   },
@@ -17982,7 +17982,7 @@
         "hr": "Trinidad i Tobago",
         "fa": "ترینیداد و توباگو"
      },
-     "flag": "/country-flags-svg/tto.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/tto.svg",
      "regionalBlocs": [
         {
            "acronym": "CARICOM",
@@ -18059,7 +18059,7 @@
         "hr": "Tunis",
         "fa": "تونس"
      },
-     "flag": "/country-flags-svg/tun.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/tun.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -18155,7 +18155,7 @@
         "hr": "Turska",
         "fa": "ترکیه"
      },
-     "flag": "/country-flags-svg/tur.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/tur.svg",
      "regionalBlocs": [],
      "cioc": "TUR"
   },
@@ -18227,7 +18227,7 @@
         "hr": "Turkmenistan",
         "fa": "ترکمنستان"
      },
-     "flag": "/country-flags-svg/tkm.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/tkm.svg",
      "regionalBlocs": [],
      "cioc": "TKM"
   },
@@ -18288,7 +18288,7 @@
         "hr": "Otoci Turks i Caicos",
         "fa": "جزایر تورکس و کایکوس"
      },
-     "flag": "/country-flags-svg/tca.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/tca.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -18354,7 +18354,7 @@
         "hr": "Tuvalu",
         "fa": "تووالو"
      },
-     "flag": "/country-flags-svg/tuv.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/tuv.svg",
      "regionalBlocs": [],
      "cioc": "TUV"
   },
@@ -18429,7 +18429,7 @@
         "hr": "Uganda",
         "fa": "اوگاندا"
      },
-     "flag": "/country-flags-svg/uga.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/uga.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -18512,7 +18512,7 @@
         "hr": "Ukrajina",
         "fa": "وکراین"
      },
-     "flag": "/country-flags-svg/ukr.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/ukr.svg",
      "regionalBlocs": [],
      "cioc": "UKR"
   },
@@ -18577,7 +18577,7 @@
         "hr": "Ujedinjeni Arapski Emirati",
         "fa": "امارات متحده عربی"
      },
-     "flag": "/country-flags-svg/are.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/are.svg",
      "regionalBlocs": [
         {
            "acronym": "AL",
@@ -18661,7 +18661,7 @@
         "hr": "Ujedinjeno Kraljevstvo",
         "fa": "بریتانیای کبیر و ایرلند شمالی"
      },
-     "flag": "/country-flags-svg/gbr.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/gbr.svg",
      "regionalBlocs": [
         {
            "acronym": "EU",
@@ -18744,7 +18744,7 @@
         "hr": "Sjedinjene Američke Države",
         "fa": "ایالات متحده آمریکا"
      },
-     "flag": "/country-flags-svg/usa.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/usa.svg",
      "regionalBlocs": [
         {
            "acronym": "NAFTA",
@@ -18820,7 +18820,7 @@
         "hr": "Urugvaj",
         "fa": "اروگوئه"
      },
-     "flag": "/country-flags-svg/ury.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/ury.svg",
      "regionalBlocs": [
         {
            "acronym": "USAN",
@@ -18912,7 +18912,7 @@
         "hr": "Uzbekistan",
         "fa": "ازبکستان"
      },
-     "flag": "/country-flags-svg/uzb.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/uzb.svg",
      "regionalBlocs": [],
      "cioc": "UZB"
   },
@@ -18988,7 +18988,7 @@
         "hr": "Vanuatu",
         "fa": "وانواتو"
      },
-     "flag": "/country-flags-svg/vut.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/vut.svg",
      "regionalBlocs": [],
      "cioc": "VAN"
   },
@@ -19055,7 +19055,7 @@
         "hr": "Venezuela",
         "fa": "ونزوئلا"
      },
-     "flag": "/country-flags-svg/ven.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/ven.svg",
      "regionalBlocs": [
         {
            "acronym": "USAN",
@@ -19138,7 +19138,7 @@
         "hr": "Vijetnam",
         "fa": "ویتنام"
      },
-     "flag": "/country-flags-svg/vnm.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/vnm.svg",
      "regionalBlocs": [
         {
            "acronym": "ASEAN",
@@ -19208,7 +19208,7 @@
         "hr": "Wallis i Fortuna",
         "fa": "والیس و فوتونا"
      },
-     "flag": "/country-flags-svg/wlf.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/wlf.svg",
      "regionalBlocs": [],
      "cioc": ""
   },
@@ -19279,7 +19279,7 @@
         "hr": "Zapadna Sahara",
         "fa": "جمهوری دموکراتیک عربی صحرا"
      },
-     "flag": "/country-flags-svg/esh.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/esh.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -19358,7 +19358,7 @@
         "hr": "Jemen",
         "fa": "یمن"
      },
-     "flag": "/country-flags-svg/yem.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/yem.svg",
      "regionalBlocs": [
         {
            "acronym": "AL",
@@ -19440,7 +19440,7 @@
         "hr": "Zambija",
         "fa": "زامبیا"
      },
-     "flag": "/country-flags-svg/zmb.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/zmb.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
@@ -19572,7 +19572,7 @@
         "hr": "Zimbabve",
         "fa": "زیمباوه"
      },
-     "flag": "/country-flags-svg/zwe.svg",
+     "flag": "https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/country-flags-svg/zwe.svg",
      "regionalBlocs": [
         {
            "acronym": "AU",
