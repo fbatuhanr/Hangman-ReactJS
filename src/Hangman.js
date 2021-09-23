@@ -52,7 +52,8 @@ class Hangman extends Component {
         }
     }
     componentDidMount() {
-        axios.get('https://restcountries.eu/rest/v2/all')
+        //axios.get('https://restcountries.eu/rest/v2/all')
+        axios.get('https://raw.githubusercontent.com/fbatuhanr/Hangman-ReactJS/main/api/restcountries.json')
         .then(response => {
             //console.log(response.data);
             const thisCountry = this.getRandomCountry( this.getValidCountries( response.data ) );
