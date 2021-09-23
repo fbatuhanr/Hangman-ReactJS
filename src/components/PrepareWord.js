@@ -7,31 +7,35 @@ export const PrepareWord = ({countryName, userAnswers}) => {
     const letterUnderScores = [];
 
     //console.log("+: ", userAnswers);
-    for (let i = 0; i < countryName.length; i++) {
+    for (let i in countryName) {
 
        letterUnderScores.push(
-            <div className="col-sm-1 col-md-2">
+            <div className={countryName.length > 10 ? "col-1" : "col-2"} style={{minHeight: '50px'}}>
                 <div className={"p-1 "+(!(/^ *$/.test(countryName[i])) ? "border-bottom" : null)}>
+                    <span>
+                    &nbsp;
                     {
                         userAnswers && userAnswers.map(answer => 
-                            answer.map(ind => 
-                                ind.indices.map(inx => 
-                                    (i == inx) ? ind.key : null      
-                                )
+                            answer.indices.map(inx => 
+                                (i == inx) ? answer.key : null
                             )
                         )
                     }
+                    &nbsp;
+                    </span>
                 </div>
             </div>
         );
     }
 
     return (
-        <div>
-            ({countryName}&nbsp;
-            {countryName.length})
-            <div className="row justify-content-center text-center">
-                { letterUnderScores }
+        <div className="row text-center justify-content-center">
+            <div className="col-8">
+                {/* countryName */}
+                <h4>{countryName.length}-Letter Country</h4>
+                <div className="row">
+                    { letterUnderScores }
+                </div>
             </div>
         </div>
     )
