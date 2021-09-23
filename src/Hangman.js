@@ -19,7 +19,7 @@ class Hangman extends Component {
     }
     keypressFunc(e){
         let eventKey = (e.key).toUpperCase();
-        console.log(eventKey)
+        //console.log(eventKey)
 
         let selectedCountryName = this.state.selectedCountry.name.toUpperCase();
         
@@ -39,14 +39,30 @@ class Hangman extends Component {
                     keyIndices.push(keyIndex);
                     keyIndex = selectedCountryName.indexOf(eventKey, keyIndex+1);
                 }
-                console.log(keyIndices);
+               // console.log(keyIndices);
                 
                 newUserAnswersState.push({ key: eventKey, indices: keyIndices });
 
                 this.setState(previousState => ({
                     userAnswers: [...previousState.userAnswers, newUserAnswersState]
                 }));
+                keyIsExistInState = true;
             }
+            else {
+                
+            }
+
+            let total = 0;
+
+            console.log(this.state.userAnswers);
+            /*this.state.userAnswers.map(answer => 
+                answer.map(ind => 
+                    ind.indices.map(inx => 
+                        console.log(inx)
+                    )
+                )
+            )*/
+
         }
         else { 
         }
